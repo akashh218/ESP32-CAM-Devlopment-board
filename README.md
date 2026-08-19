@@ -103,4 +103,4 @@ This project strengthened my practical understanding of:
 
 ---
 
-**Designed in KiCad | ESP32-S3 | 4-Layer PCB | Embedded Hardware**
+**Designed in KiCad | ESP32-S3 | 4-Layer PCB **
