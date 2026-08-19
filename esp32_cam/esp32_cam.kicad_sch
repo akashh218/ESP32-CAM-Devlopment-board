@@ -1,0 +1,163 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "9989cf75-5349-489c-ba4a-b052d6bcbbf5")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 65.405 82.55)
+		(size 41.91 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "58380589-010f-4ffb-b980-73b34076b0f9")
+		(property "Sheetname" "ESP_SECTION"
+			(at 65.405 81.8384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP_SECTION.kicad_sch"
+			(at 65.405 114.8846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esp32_cam"
+				(path "/9989cf75-5349-489c-ba4a-b052d6bcbbf5"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 125.73 82.55)
+		(size 40.64 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5ecd5adc-d905-493d-86b0-caaf52d5e1f6")
+		(property "Sheetname" "INTERFACES & POWER"
+			(at 125.73 81.8384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "INTERFACES.kicad_sch"
+			(at 125.73 114.8846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esp32_cam"
+				(path "/9989cf75-5349-489c-ba4a-b052d6bcbbf5"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 186.055 82.55)
+		(size 39.37 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c3a0833e-04e0-4f14-a6ab-d62439c9fdf9")
+		(property "Sheetname" "SD CARD & CAM"
+			(at 186.055 81.8384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CAM_SD.kicad_sch"
+			(at 186.055 114.8846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 186.055 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "esp32_cam"
+				(path "/9989cf75-5349-489c-ba4a-b052d6bcbbf5"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
